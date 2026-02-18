@@ -1,4 +1,4 @@
-# Hi there! I'm [khalid hussain] 👋
+# Hi there! I'm Khalid Hussain 👋
 ### Data Scientist | Machine Learning Specialist | BS Mathematics Student
 
 I am a data-driven problem solver with a deep foundation in **Mathematics**. I specialize in building predictive models and extracting meaningful insights from complex datasets. My goal is to bridge the gap between mathematical theory and scalable AI solutions.
