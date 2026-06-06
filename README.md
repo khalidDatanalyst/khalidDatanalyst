@@ -38,5 +38,5 @@ I am currently analyzing the relationship between environmental impact and globa
 
 ###  Let's Connect!
 - **LinkedIn:** [https://www.linkedin.com/in/analyst-khalid-89456a3a9/]
-- **Upwork:** [https://www.upwork.com/freelancers/~0133d6ff94c3d08d2e?viewMode=1]
+- **Upwork:** [https://www.upwork.com/freelancers/~0133d6ff94c3d08d2e]
 - **Portfolio:** [http://fiverr.com/sellers/khalidatanalyst]
